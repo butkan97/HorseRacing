@@ -1,0 +1,27 @@
+C:\Users\Oyun 3 Sabah\source\repos\AtYarisi1\AtYarisi1\bin\Debug\AtYarisi1.exe.config
+C:\Users\Oyun 3 Sabah\source\repos\AtYarisi1\AtYarisi1\bin\Debug\AtYarisi1.exe
+C:\Users\Oyun 3 Sabah\source\repos\AtYarisi1\AtYarisi1\bin\Debug\AtYarisi1.pdb
+C:\Users\Oyun 3 Sabah\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.csprojAssemblyReference.cache
+C:\Users\Oyun 3 Sabah\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.Form1.resources
+C:\Users\Oyun 3 Sabah\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.Properties.Resources.resources
+C:\Users\Oyun 3 Sabah\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.csproj.GenerateResource.cache
+C:\Users\Oyun 3 Sabah\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.exe
+C:\Users\Oyun 3 Sabah\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.pdb
+C:\Users\Section1\source\repos\AtYarisi1\AtYarisi1\bin\Debug\AtYarisi1.exe.config
+C:\Users\Section1\source\repos\AtYarisi1\AtYarisi1\bin\Debug\AtYarisi1.exe
+C:\Users\Section1\source\repos\AtYarisi1\AtYarisi1\bin\Debug\AtYarisi1.pdb
+C:\Users\Section1\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.Form1.resources
+C:\Users\Section1\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.Properties.Resources.resources
+C:\Users\Section1\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.exe
+C:\Users\Section1\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.pdb
+C:\Users\Butkan\source\repos\AtYarisi1\AtYarisi1\bin\Debug\AtYarisi1.exe.config
+C:\Users\Butkan\source\repos\AtYarisi1\AtYarisi1\bin\Debug\AtYarisi1.exe
+C:\Users\Butkan\source\repos\AtYarisi1\AtYarisi1\bin\Debug\AtYarisi1.pdb
+C:\Users\Butkan\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.csprojAssemblyReference.cache
+C:\Users\Butkan\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.Form1.resources
+C:\Users\Butkan\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.Properties.Resources.resources
+C:\Users\Butkan\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.csproj.GenerateResource.cache
+C:\Users\Butkan\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.exe
+C:\Users\Butkan\source\repos\AtYarisi1\AtYarisi1\obj\Debug\AtYarisi1.pdb
